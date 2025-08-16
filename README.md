@@ -1,5 +1,4 @@
-# Python
-End to end projects using python 
+
 # Python Projects – Data Analysis, Hypothesis Testing, and Statistical Forecasting
 
 This repository contains a collection of Python-based projects focused on data analysis, exploratory data analysis (EDA), hypothesis testing, and forecasting using statistical and probability-driven approaches. These projects demonstrate the application of core data science techniques and statistical methods to derive insights, test assumptions, and make future predictions from data.
